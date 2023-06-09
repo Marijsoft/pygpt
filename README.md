@@ -11,3 +11,7 @@ on linux:
 chmod +x setup.sh
 sudo ./setup.sh
 for run the client gui: python3 pygpt.pyc
+
+
+https://github.com/Marijsoft/pygpt/assets/4884515/81a79774-3289-44dd-9388-c3c43b36a56f
+
